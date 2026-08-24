@@ -1,4 +1,4 @@
-# Proyecto para Netflix
+# Proyecto_Netflix
 
 Proyecto de Analisis de datos con peliculas y series de Netflix
 
